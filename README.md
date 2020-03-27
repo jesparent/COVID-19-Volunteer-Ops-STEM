@@ -7,4 +7,5 @@ A collection of resources about COVID-19 Volunteer Opportunities, particualrly f
 
 - University at Albany SUNY: PPE & 3D Printing 
   - Location Based: Albany, NY
-  - See https://github.com/jesparent/COVID-19-Volunteer-Ops-STEM/blob/master/COVID%20VOLUNTER.JPG 
+  - See [this email image for preliminary info](https://github.com/jesparent/COVID-19-Volunteer-Ops-STEM/blob/master/COVID%20VOLUNTER.JPG).
+  - [Contact me](https://sites.google.com/view/jesparent) for details if you are local and need access to this email and other updates. 
