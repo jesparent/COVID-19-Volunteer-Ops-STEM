@@ -11,6 +11,7 @@ A collection of resources about COVID-19 Volunteer Opportunities (or other quara
 
 
 ## 3D Printing
+- If you have 3DP experience, many universities or printer-holding locations are having their own initiatives. Reach out to them or consider offering them supplies. 
 - University at Albany SUNY: PPE & 3D Printing 
   - Location Based: Albany, NY
   - See [this email image for preliminary info](https://github.com/jesparent/COVID-19-Volunteer-Ops-STEM/blob/master/COVID%20VOLUNTER.JPG).
