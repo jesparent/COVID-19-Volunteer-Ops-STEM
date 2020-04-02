@@ -25,6 +25,8 @@ A collection of resources about COVID-19 Volunteer Opportunities (or other quara
   - Simulation: https://neherlab.org/covid19/
   - Call for Data & Data Curators: https://github.com/neherlab/covid19_scenarios/issues/69
 
+- KAGGLE data sets & data science challenges
+  - https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge 
 
 ## Cybersecurity & Infosec
 
