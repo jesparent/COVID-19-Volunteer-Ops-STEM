@@ -3,6 +3,9 @@ A collection of resources about COVID-19 Volunteer Opportunities (or other quara
 
 
 ### Quick Updates
+
+- Make a mask yourself at home: https://makermask.org/ 
+
 - @mozilla  gives awards of up to $50,000 each to open source technology projects for the COVID-19 pandemic  https://blog.mozilla.org/blog/2020/03/31/moss-launches-covid-19-solutions-fund/
 
 - Opportunity to donate your spare computing power to address COVID-19: https://foldingathome.org/covid19/
