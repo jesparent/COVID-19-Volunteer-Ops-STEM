@@ -11,7 +11,7 @@ A collection of resources about COVID-19 Volunteer Opportunities (or other quara
 - Opportunity to donate your spare computing power to address COVID-19: https://foldingathome.org/covid19/
 >> Donate computing power: Downloading Folding@home and helping us run simulations is the primary way to contribute. These calculations are enormous and every little bit helps! Each simulation you run is like buying a lottery ticket. The more tickets we buy, the better our chances of hitting the jackpot. Usually, your computer will never be idle, but we’ve had such an enthusiastic response to our COVID-19 work that you will see some intermittent downtime as we sprint to setup more simulations. Please be patient with us! There is a lot of valuable science to be done, and we’re getting it running as quickly as we can.
 
-- Stanford Human-Centered AI: [Covid-19 and AI: A Virtual Conference](https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/overview) (videos available) 
+
 
 
 
@@ -33,6 +33,8 @@ A collection of resources about COVID-19 Volunteer Opportunities (or other quara
 
 - KAGGLE data sets & data science challenges
   - https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge 
+
+- Stanford Human-Centered AI: [Covid-19 and AI: A Virtual Conference](https://hai.stanford.edu/events/covid-19-and-ai-virtual-conference/overview) (videos available) 
 
 ## Cybersecurity & Infosec
 
