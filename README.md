@@ -46,3 +46,8 @@ A collection of resources about COVID-19 Volunteer Opportunities (or other quara
 
 -  ICLR 2020: Eighth International Conference on Learning Representation https://iclr.cc/ 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Looking for a community volunteer to help with web dev for Virtual ICLR. Pretty fun, collaborative, and indoor project to help develop and support remote tools. Send me an email or dm with example work on GitHub.</p>&mdash; Sasha Rush (@srush_nlp) <a href="https://twitter.com/srush_nlp/status/1243526344534884353?ref_src=twsrc%5Etfw">March 27, 2020</a></blockquote> 
+
+
+# Other information
+## Suggested Readings
+- The Atlantic: ["The Crisis Could Last 18 Months. Be Prepared.](https://www.theatlantic.com/ideas/archive/2020/03/there-isnt-going-be-all-clear-signal/608512/?utm_campaign=the-atlantic)
