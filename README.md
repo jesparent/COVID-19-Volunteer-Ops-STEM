@@ -8,6 +8,11 @@ A collection of resources about COVID-19 Volunteer Opportunities (or other quara
 
 - @mozilla  gives awards of up to $50,000 each to open source technology projects for the COVID-19 pandemic  https://blog.mozilla.org/blog/2020/03/31/moss-launches-covid-19-solutions-fund/
 
+- Crowdsourcing Violence & Respones as aresult of COVID-19 via PeaceTech labs 
+  - Info: https://www.peacetechlab.org/the-peacetech-toolbox
+  - Submission link: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdJG9VvzrIU-ixlaPgRV2X5g1lE01KhfMsDOliwJqI7deTLRA/viewform)
+
+
 - Opportunity to donate your spare computing power to address COVID-19: 
   - https://foldingathome.org/covid19/ Donate computing power: Downloading Folding@home and helping us run simulations is the primary way to contribute. These calculations are enormous and every little bit helps! Each simulation you run is like buying a lottery ticket. The more tickets we buy, the better our chances of hitting the jackpot. Usually, your computer will never be idle, but we’ve had such an enthusiastic response to our COVID-19 work that you will see some intermittent downtime as we sprint to setup more simulations. Please be patient with us! There is a lot of valuable science to be done, and we’re getting it running as quickly as we can.
   - https://boinc.bakerlab.org/ Rosetta / Boinc (similar to above)
