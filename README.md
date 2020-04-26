@@ -1,7 +1,7 @@
 # COVID-19-Volunteer-Ops-STEM
 A collection of resources about COVID-19 Volunteer Opportunities (or other quarantine-time options), particualrly for those w STEM background.
 
-- A HUGE database of opportunities: https://covid19sci.org/
+- A HUGE database of opportunities: https://covid19sci.org/ and http://united-against-covid.org/ 
 
 ### Quick Updates
 
